@@ -1,2 +1,2 @@
 # acm
-solution and templates for acmicpc-style algorithm problems
+my solution and templates for acmicpc-style algorithm problems
