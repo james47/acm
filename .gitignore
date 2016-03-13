@@ -1,0 +1,5 @@
+#### OS generate files ####
+.DS_Store
+
+#### executable ####
+*.out
